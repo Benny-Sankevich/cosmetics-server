@@ -1,0 +1,6 @@
+{
+  "mongodb": {
+    "connectionString": "mongodb+srv://admin:pass4admin!@supermarket.xuh5q.mongodb.net/SariCosmetic?retryWrites=true&w=majority"
+  },
+  "defaultUserImage": "default-image.jpg"
+}
